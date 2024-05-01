@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260933802027",
+    "project_id": "fluttereminder",
+    "storage_bucket": "fluttereminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260933802027:android:1975973596b6f9f101326e",
+        "android_client_info": {
+          "package_name": "com.example.reminderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20DNP9Pl6ZBchVF-RkA0SCM6Se5yJggk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
